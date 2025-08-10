@@ -1,0 +1,10 @@
+gradio==4.27.0
+fastapi
+uvicorn
+httpx
+requests
+matplotlib
+pandas
+scikit-learn
+python-dotenv
+numpy
